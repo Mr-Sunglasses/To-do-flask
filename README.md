@@ -27,7 +27,7 @@ $ pip install Flask
 $ pip install Flask-SQLAlchemy
 ```
 
-Set environment variables in terminal
+<!-- Set environment variables in terminal
 ```console
 $ export FLASK_APP=app.py
 $ export FLASK_ENV=development
@@ -37,9 +37,9 @@ or on Windows
 ```console
 $ set FLASK_APP=app.py
 $ set FLASK_ENV=development
-```
+``` -->
 
 Run the app
 ```console
-$ flask run
+$ python3 app.py
 ```
